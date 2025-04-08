@@ -1,0 +1,14 @@
+Git clone ssh link
+Git add .
+Git status
+Git commit -m "base code"
+Git push origin main
+
+
+If you want to clone a specific file then use
+
+Git clone -b branch name ssh link
+
+
+If you want to pull changes use command
+Git pull origin main
